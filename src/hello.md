@@ -1,6 +1,6 @@
 # Hello World
 
-这是传统的 Hello World 程序的源码。
+这是经典的 Hello World 程序的源码。
 
 ```rust,editable
 // 这是注释内容，将会被编译器忽略掉
